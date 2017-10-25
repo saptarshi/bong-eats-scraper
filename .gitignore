@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.log
+.deploy*/
+node_modules
+screenshots

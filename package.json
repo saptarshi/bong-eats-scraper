@@ -1,0 +1,15 @@
+{
+  "name": "bongeats-scrape",
+  "version": "1.0.0",
+  "description": "Use Puppeteer to scrape recipes on Bong Eats and store them to a database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saptarshi Chakraborty",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^4.12.4",
+    "puppeteer": "^0.12.0"
+  }
+}
